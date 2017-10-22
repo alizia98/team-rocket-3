@@ -11,7 +11,7 @@ p {
   line-height: 1.75; }
 
 a {
-  color: #fed136; }
+  color: #3355a5; }
   a.active, a:active, a:focus, a:hover {
     color: #fec503; }
 
@@ -335,7 +335,7 @@ header.masthead {
       color: white;
       border: 7px solid #f1f1f1;
       border-radius: 100%;
-      background-color: #fed136; }
+      background-color: #3355a5; }
       .timeline > li .timeline-image h4 {
         font-size: 10px;
         line-height: 14px;
